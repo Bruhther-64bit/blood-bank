@@ -31,9 +31,9 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 4. 'sql' contains the database file that has to be imported.
 
 Team:
--Zulqarnain Talukder
--Samiul Haque Siddique
--Al Rafi Al Islam
--Monir Hossain
--Asif Hosen Dhruvo
+1. Zulqarnain Talukder
+2. Samiul Haque Siddique 
+3. Al Rafi Al Islam
+4. Monir Hossain
+5. Asif Hosen Dhrubo
 
