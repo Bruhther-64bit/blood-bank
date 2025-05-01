@@ -30,7 +30,7 @@ This project is created for two users: Donors/Receivers and Hospitals/Clinics(Do
 3. 'image' and 'jastimage' contains images used in the front end.
 4. 'sql' contains the database file that has to be imported.
 
-## :family_man_woman_boy_boy: Team:
+Team:
 -Zulqarnain Talukder
 -Samiul Haque Siddique
 -Al Rafi Al Islam
